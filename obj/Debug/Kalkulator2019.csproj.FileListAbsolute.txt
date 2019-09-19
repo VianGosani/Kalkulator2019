@@ -1,0 +1,10 @@
+D:\18.11.2324\Kalkulator2019\Kalkulator2019\bin\Debug\Kalkulator2019.exe.config
+D:\18.11.2324\Kalkulator2019\Kalkulator2019\bin\Debug\Kalkulator2019.exe
+D:\18.11.2324\Kalkulator2019\Kalkulator2019\bin\Debug\Kalkulator2019.pdb
+D:\18.11.2324\Kalkulator2019\Kalkulator2019\obj\Debug\Kalkulator2019.csprojAssemblyReference.cache
+D:\18.11.2324\Kalkulator2019\Kalkulator2019\obj\Debug\Kalkulator2019.csproj.CoreCompileInputs.cache
+D:\18.11.2324\Kalkulator2019\Kalkulator2019\obj\Debug\Kalkulator2019.exe
+D:\18.11.2324\Kalkulator2019\Kalkulator2019\obj\Debug\Kalkulator2019.pdb
+D:\18.11.2324\Kalkulator2019\Kalkulator2019\bin\Debug\CalculatorMahine.dll
+D:\18.11.2324\Kalkulator2019\Kalkulator2019\bin\Debug\CalculatorMahine.pdb
+D:\18.11.2324\Kalkulator2019\Kalkulator2019\obj\Debug\Kalkulator2019.csproj.CopyComplete
